@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "提交到钱王博的仓库" << std::endl;
+    std::cout << "提交到陈向辉的仓库" << std::endl;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
