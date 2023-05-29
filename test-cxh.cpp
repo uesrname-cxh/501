@@ -8,6 +8,8 @@ int main()
     std::cout << "test1-hello world";
 
     std::cout << "test2-hello world";
+
+    std::cout << "test3-hello world";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
